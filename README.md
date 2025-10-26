@@ -44,6 +44,6 @@ fn main() {
     rusty.get("/hello", hello_handler);
 
     // Start the server on port 3000
-    rusty.listen(3000).unwrap();
+    rusty.listen(3000);
 }
 ```
