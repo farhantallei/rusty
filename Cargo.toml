@@ -1,0 +1,12 @@
+[package]
+name = "rusty"
+version = "0.1.0"
+edition = "2024"
+authors = ["Farhan Pradana Tallei <farhan.pradana55@gmail.com>"]
+description = "Mini web framework in Rust"
+license = "MIT"
+repository = "https://github.com/farhantallei/rusty"
+
+[dependencies]
+[dev-dependencies]
+reqwest = { version = "0.12", features = ["blocking"] }
