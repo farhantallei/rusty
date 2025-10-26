@@ -1,5 +1,5 @@
 [package]
-name = "rusty_crab"
+name = "rusty_crab_web"
 version = "0.1.0"
 edition = "2024"
 authors = ["Farhan Pradana Tallei <farhan.pradana55@gmail.com>"]
