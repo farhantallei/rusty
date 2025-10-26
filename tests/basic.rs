@@ -1,4 +1,4 @@
-use rusty::{Request, Response, Rusty};
+use rusty_crab_web::{Request, Response, Rusty};
 use std::thread;
 use std::time::Duration;
 
